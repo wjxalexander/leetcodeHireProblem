@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "module": "commonjs",
+        "jsx": "preserve",
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "allowJs": true,
+        "lib": [
+            "es2018",
+            "dom"
+        ],
+        "rootDir": "src",
+        "moduleResolution": "node"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "build",
+        "dist",
+        "scripts",
+        "acceptance-tests",
+        "webpack",
+        "jest",
+        "src/setupTests.ts",
+        "*.js"
+    ]
+}
