@@ -2,7 +2,7 @@
   "name": "leethire",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "wangjingxing <wangjingxing@d-bigdata.com>",
+  "author": "wangjingxin <wjxalexander@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "@types/jest": "^26.0.7",
