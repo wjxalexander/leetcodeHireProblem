@@ -154,8 +154,8 @@ describe("FireFoxTestFalse", () => {
         });
     });
 });
-describe("FireFoxTestFalse", () => {
-    it("FireFoxTestFalse", () => {
+describe("FireFoxTest", () => {
+    it("FireFoxTest", () => {
         expect(parseError(FireFoxTest)).toEqual({
             message: "",
             stack: [{
